@@ -1,0 +1,12 @@
+{
+  "name": "nginxc",
+  "version": "1.0.0",
+  "description": "Tiny framework for building `nginx.conf` files programmatically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "keywords": ["nginx", "nginx.conf", "config", "configuration"],
+  "author": "Carlos Ascari Gutierrez Hermosillo <carlos.ascari.x@gmail.com>",
+  "license": "MIT"
+}
